@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Encore",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-05T13:50:58.918436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Delta Dawn (1990 \"Encore\" Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/01_Delta_Dawn_(1990__Encore__Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everybody's Got Somebody But Me (Encore)",
+      "artist": "Hunter Hayes feat. Jason Mraz",
+      "has_synced": true,
+      "path": "select/02_Everybody's_Got_Somebody_But_Me_(Encore)_Hunter_Hayes_feat._Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody's Got Somebody but Me (feat. Jason Mraz) (Encore)",
+      "artist": "Hunter Hayes",
+      "has_synced": true,
+      "path": "select/03_Everybody's_Got_Somebody_but_Me_(feat._Jason_Mraz)_(Encore)_Hunter_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want Crazy - Encore",
+      "artist": "Hunter Hayes",
+      "has_synced": true,
+      "path": "select/04_I_Want_Crazy_-_Encore_Hunter_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Encore",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_Encore_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Encore (Curtains)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Encore_(Curtains)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Encore",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_Encore_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Encore",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_Encore_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Encore lui",
+      "artist": "Jane Birkin",
+      "has_synced": false,
+      "path": "select/09_Encore_lui_Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Encore",
+      "artist": "Housse de Racket",
+      "has_synced": true,
+      "path": "select/10_Encore_Housse_de_Racket.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Encore",
+      "artist": "Eminem, Dr. Dre & 50 Cent",
+      "has_synced": true,
+      "path": "select/11_Encore_Eminem,_Dr._Dre_&_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Encore \u0000 (Curtains)",
+      "artist": "Eminem feat. Dr. Dre & 50 Cent",
+      "has_synced": true,
+      "path": "select/12_Encore_\u0000_(Curtains)_Eminem_feat._Dr._Dre_&_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Est-ce que) Tu m'aimes encore?",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/13_(Est-ce_que)_Tu_m'aimes_encore_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Est-ce que tu m’aimes encore?",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/14_Est-ce_que_tu_m’aimes_encore_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Je Crois Entendre Encore",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/15_Je_Crois_Entendre_Encore_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Je Crois Entendre Encore",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/16_Je_Crois_Entendre_Encore_Alison_Moyet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Encore",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Encore_YOASOBI.txt"
+    }
+  ]
+}
